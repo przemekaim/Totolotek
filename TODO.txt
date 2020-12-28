@@ -1,0 +1,5 @@
+shuffle do kolekcji, sublista 
+przedzial 1-49 totolotek
+2 wersja:
+moze tez przedzial od uzytkownika
+
